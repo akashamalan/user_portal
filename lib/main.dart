@@ -1,9 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
-import 'dart:ui';
 // IMPORT the new screens
 import 'SignRegister.dart'; 
-import 'VolumeCustomization.dart'; 
 
 void main() {
   runApp(const TeamNovaApp());
